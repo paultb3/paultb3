@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Paul</h1>
-<h3 align="center">I enjoy developing in java</h3>
+<h1 align="center">Hola 👋, soy Paul</h1>
+<h3 align="center">Disfruto desarrollando en java</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paultb3&label=Profile%20views&color=0e75b6&style=flat" alt="paultb3" /> </p>
 
-- 🌱 I’m currently learning **Python, JavaScript**
+- 🌱 Actualmente estoy aprendiendo **php, sql, javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
