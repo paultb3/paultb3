@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paultb3&label=Profile%20views&color=0e75b6&style=flat" alt="paultb3" /> </p>
 
-- 🌱 Actualmente estoy aprendiendo **php, sql, javascript**
+- 🌱 Actualmente estoy aprendiendo **php, wordPress, javascript**
 
 <h3 align="left">Contacta conmigo para realizar trabajos en equipo y colaborativos!!</h3>
 <p align="left">
